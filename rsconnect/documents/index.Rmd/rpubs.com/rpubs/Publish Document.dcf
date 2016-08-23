@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/202989/cd99c3cfa766464287a2b897079498ff
+bundleId: https://api.rpubs.com/api/v1/document/202989/cd99c3cfa766464287a2b897079498ff
+url: http://rpubs.com/peszi/202989
+when: 1471941356.51838
